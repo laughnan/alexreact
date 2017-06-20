@@ -1,0 +1,3 @@
+rootProject.name = 'alexreact'
+
+include ':app'
